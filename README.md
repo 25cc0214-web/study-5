@@ -1,1 +1,1 @@
-# study-5 by Bob
+# study-5 by Bob and Alice
